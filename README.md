@@ -18,7 +18,7 @@ Los datos empleados en este proyecto se obtuvieron actualizados a la fecha **202
 
 ## Resultados
 
-![alt text](dist/vacunacion_uci.png "UCI")
+![alt text](dist/vacunacion_uci_2.png "UCI")
 
 | Observación | Conteo |
 | --- | --- |
@@ -29,7 +29,7 @@ Los datos empleados en este proyecto se obtuvieron actualizados a la fecha **202
 
 Los vacunados cuentan con 74957 pacientes que no llegaron a UCI, mientras que los no vacunados cuentan con 44257 pacientes que  no llegaron a UCI.
 
-![alt text](dist/vacunacion_fallecimiento.png "FALLECIMIENTO")
+![alt text](dist/vacunacion_fallecimiento_2.png "FALLECIMIENTO")
 
 | Observación | Conteo |
 | --- | --- |
