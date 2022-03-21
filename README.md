@@ -1,4 +1,4 @@
-# Gráficos del flujo de pacientes por COVID-19 para verificar el cuestionado efecto protector de las vacunas en Perú
+# Gráficos del flujo de pacientes por COVID-19 para verificar el efecto protector de las vacunas en Perú
 
 ## Antecedentes
 
